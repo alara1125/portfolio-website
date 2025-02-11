@@ -1,0 +1,20 @@
+#nav ul li:first-child { /* makes my name left most*/
+    margin-right: auto;
+}
+
+#nav ul li {
+    margin: 0px 10px; /* margin height and length */
+    padding: 5px 10px; /*pad height and length */
+    border-radius: 4px; /* border softness */
+}
+
+
+#nav ul {
+    list-style: none; /* Removes bullet points */
+    display: flex; /* Makes the list items appear in a row */
+    padding: 0;       /* Removes default left padding */
+    margin: 0;        /* Adjusts margin if necessary */
+}
+
+#nav {
+}
